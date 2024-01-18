@@ -1,6 +1,5 @@
 //Project
 //Aman Singh ID# 40190387
-//Marilou Sibley ID# 40003262
 #include <iostream>
 #include <iomanip>
 #include <string>
